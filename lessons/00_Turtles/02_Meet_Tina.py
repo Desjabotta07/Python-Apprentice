@@ -38,16 +38,16 @@ tina.penup()                            # Lift the pen up so we can move tina wi
 tina.forward(20)                        # Move tina forward by 20
 tina.left(90)                           # Turn tina left by 90 degrees
 tina.forward(20)                        # Move tina forward by 20
-tina.write("GO SEADRAGON BASEBALL!")         # Write the message "Why, hello there!"
+tina.write("SEEYA SUCKERS! BBBBBBBYYYYYYYYEEEEEEEEEEE")         # Write the message "Why, hello there!"
 tina.backward(20)                       # Move tina backward by 20
 
 tina.goto(-50,0)
 tina.pendown()
 tina.color('turquoise')                       # Set the color of tina to red
 tina.begin_fill()
-tina.circle(101, steps=20)
+tina.circle(5, steps=12312)
 tina.end_fill()
-
+tina.write("IIIIIIMMMMMMMMMM BBBBBAAAAAACCCCCKKKKK!!!!!")
 turtle.exitonclick()                    # Close the window when we click on it
 
 # Now you can try writing your own programs. Open
