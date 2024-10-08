@@ -17,7 +17,7 @@ turtle.forward(50)
 turtle.left(90)
 turtle.forward(50)
 turtle.left(135)
-turtle.forward(72)
+turtle.forward(80)
 tina = turtle.Turtle()                  # Create a turtle named tina
 
 # Use tina.forward() and tina.left() to draw a triangle

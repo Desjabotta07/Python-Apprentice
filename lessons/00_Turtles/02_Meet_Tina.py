@@ -45,7 +45,7 @@ tina.goto(-50,0)
 tina.pendown()
 tina.color('turquoise')                       # Set the color of tina to red
 tina.begin_fill()
-tina.circle(5, steps=12312)
+tina.circle(90, steps=100)
 tina.end_fill()
 tina.write("IIIIIIMMMMMMMMMM BBBBBAAAAAACCCCCKKKKK!!!!!")
 turtle.exitonclick()                    # Close the window when we click on it
