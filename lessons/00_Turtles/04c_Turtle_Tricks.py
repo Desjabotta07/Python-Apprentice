@@ -22,9 +22,11 @@ tina = turtle.Turtle()                  # Create a turtle named tina
 ... # Your code here
 tina.circle(50)
 tina.penup()
-tina.goto(120,0)
+tina.goto(125,0)
 tina.pendown()
 tina.circle(50)
+tina.penup()
+
 turtle.exitonclick()                    # Close the window when we click on it
 
 
